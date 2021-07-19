@@ -27,7 +27,7 @@ https://testnet.binance.org/faucet-smart
 
 ## Polygon
 
-## Mainnet
+### Mainnet
 
 https://xdai-app.herokuapp.com/faucet
 
