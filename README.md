@@ -8,6 +8,7 @@ Curated list of Testnet faucets for Ropsten,Goerli,Mumbai,FantomTest etc
 - [BSC](#bsc)
 - [Polygon](#polygon)
 - [xDai](#xdai)
+- [Fantom](#fantom)
 
 
 ## Ethereum
@@ -47,3 +48,8 @@ https://blockscout.com/xdai/mainnet/faucet
 
 https://faucet.poa.network/
 
+## Fantom
+
+### FantomTestnet
+
+https://faucet.fantom.network/
