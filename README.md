@@ -15,12 +15,28 @@ Curated list of Testnet faucets for Ropsten,Goerli,Mumbai,FantomTest etc
 ### Ropsten
 https://faucet.ropsten.be/
 
+https://app.mycrypto.com/faucet
+
+
+
 ### Goerli
 https://faucet.goerli.mudit.blog/
 
 https://goerli-faucet.slock.it/
 
 https://faucet.matic.network/
+
+https://app.mycrypto.com/faucet
+
+
+### Kovan
+
+https://app.mycrypto.com/faucet
+
+### Rinkeby
+
+https://app.mycrypto.com/faucet
+
 
 ## BSC
 
