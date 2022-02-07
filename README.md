@@ -13,6 +13,8 @@ Curated list of Testnet faucets for Ropsten,Goerli,Mumbai,FantomTest etc
 
 ## Ethereum
 ### Ropsten
+https://ropsten.oregonctf.org/
+
 https://faucet.ropsten.be/
 
 https://app.mycrypto.com/faucet
@@ -51,13 +53,13 @@ https://testnet.binance.org/faucet-smart
 
 ### Mainnet
 
-https://xdai-app.herokuapp.com/faucet
+https://www.gimlu.com/faucet
+
+https://matic.supply/
 
 ### Mumbai
 
-https://faucet.matic.network/
-
-https://xdai-app.herokuapp.com/faucet
+https://faucet.polygon.technology/
 
 ## xDai
 
