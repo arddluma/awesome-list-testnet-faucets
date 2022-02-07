@@ -4,6 +4,7 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 
 ## Networks
 
+- [Etherspot](#etherspot)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
 - [Polygon](#polygon)
@@ -11,6 +12,15 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [Fantom](#fantom)
 - [Aurora](#aurora)
 
+
+## Etherspot
+
+### Etherspot testnet PoA
+
+Etherspot is a multi-chain non-custodial Smart Wallet platform that allows you to access the best features (batched transactions, NFTs, ENS, P2P) of the Ethereum blockchain (and EVM compatible chains such as Polygon, Binance Smart Chain, xDai) quickly and with minimal effort and cost.
+Checkout [here](https://bit.ly/3oyavge)
+
+https://try.etherspot.dev/#TopUpAccount
 
 ## Ethereum
 ### Ropsten
@@ -83,4 +93,3 @@ https://faucet.fantom.network/
 ### Aurora Testnet
 
 https://aurora.dev/faucet
-
