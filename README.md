@@ -1,5 +1,5 @@
 # awesome-list-testnet-faucets
-Curated list of Testnet faucets for Ropsten,Goerli,Mumbai,FantomTest etc
+Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, FantomTest, Sokol, Aurora etc
 
 
 ## Networks
@@ -9,6 +9,7 @@ Curated list of Testnet faucets for Ropsten,Goerli,Mumbai,FantomTest etc
 - [Polygon](#polygon)
 - [xDai](#xdai)
 - [Fantom](#fantom)
+- [Aurora](#aurora)
 
 
 ## Ethereum
@@ -76,3 +77,10 @@ https://faucet.poa.network/
 ### FantomTestnet
 
 https://faucet.fantom.network/
+
+## Aurora
+
+### Aurora Testnet
+
+https://aurora.dev/faucet
+
