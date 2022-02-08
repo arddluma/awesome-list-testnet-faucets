@@ -5,6 +5,7 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 ## Networks
 
 - [Etherspot](#etherspot)
+- [MultiFaucet](#multifaucet)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
 - [Polygon](#polygon)
@@ -21,6 +22,11 @@ Etherspot is a multi-chain non-custodial Smart Wallet platform that allows you t
 Checkout [here](https://bit.ly/3oyavge)
 
 https://try.etherspot.dev/#TopUpAccount
+
+## MultiFaucet
+Faucet drips on the Ethereum testnets (Rinkeby, Ropsten, Kovan, Görlil, Optimistic Kovan, Arbitrum Rinkeby, Avalanche Fuji, Polygon Mumbai)
+
+https://faucet.paradigm.xyz/
 
 ## Ethereum
 ### Ropsten
