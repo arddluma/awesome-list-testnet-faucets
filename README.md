@@ -12,6 +12,7 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [xDai](#xdai)
 - [Fantom](#fantom)
 - [Aurora](#aurora)
+- [Cronos](#cronos)
 
 
 ## Etherspot
@@ -101,3 +102,9 @@ https://faucet.fantom.network/
 ### Aurora Testnet
 
 https://aurora.dev/faucet
+
+## Cronos
+
+### Cronos Testnet
+
+https://cronos.org/faucet
