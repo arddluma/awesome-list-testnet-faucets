@@ -101,3 +101,9 @@ https://faucet.fantom.network/
 ### Aurora Testnet
 
 https://aurora.dev/faucet
+
+## Cronos
+
+### Cronos Testnet
+
+https://cronos.org/faucet
