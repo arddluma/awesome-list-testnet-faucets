@@ -13,6 +13,7 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [Fantom](#fantom)
 - [Aurora](#aurora)
 - [Cronos](#cronos)
+- [Solana](#solana)
 
 
 ## Etherspot
@@ -108,3 +109,9 @@ https://aurora.dev/faucet
 ### Cronos Testnet
 
 https://cronos.org/faucet
+
+## Solana
+
+### Solana DevNet/Testnet
+
+https://solfaucet.com/
