@@ -59,14 +59,20 @@ https://app.mycrypto.com/faucet
 
 https://app.mycrypto.com/faucet
 
+https://faucets.chain.link/
+
 ### Rinkeby
 
 https://app.mycrypto.com/faucet
+
+https://faucets.chain.link/
 
 
 ## BSC
 
 https://testnet.binance.org/faucet-smart
+
+https://faucets.chain.link/
 
 ## Polygon
 
@@ -82,7 +88,9 @@ https://faucet.polygon.technology/
 
 https://testmatic.vercel.app/
 
-## xDai
+https://faucets.chain.link/
+
+## xDai/Gnosis
 
 ### Mainnet
 
@@ -92,11 +100,15 @@ https://blockscout.com/xdai/mainnet/faucet
 
 https://faucet.poa.network/
 
+https://faucets.chain.link/
+
 ## Fantom
 
 ### FantomTestnet
 
 https://faucet.fantom.network/
+
+https://faucets.chain.link/
 
 ## Aurora
 
