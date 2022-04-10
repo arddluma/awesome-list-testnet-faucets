@@ -15,6 +15,9 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [Cronos](#cronos)
 - [Solana](#solana)
 - [Tezos](#solana)
+- [Ripple](#Ripple)
+- [Algo](#Algo)
+- [Cardano](#Cardano)
 
 
 ## Etherspot
