@@ -151,6 +151,8 @@ https://xrpl.org/xrp-testnet-faucet.html
 
 ### Algo DevNet/Testnet
 
+https://dispenser.testnet.aws.algodev.network/
+
 ## Cardano
 
 ### Cardano DevNet/Testnet
