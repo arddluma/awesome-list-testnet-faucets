@@ -14,6 +14,7 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [Aurora](#aurora)
 - [Cronos](#cronos)
 - [Solana](#solana)
+- [Tezos](#solana)
 
 
 ## Etherspot
@@ -127,3 +128,32 @@ https://cronos.org/faucet
 ### Solana DevNet/Testnet
 
 https://solfaucet.com/
+
+## Tezos
+
+### Tezos DevNet/Testnet
+
+https://faucet.tzalpha.net/
+
+https://teztnets.xyz/ithacanet-faucet
+
+https://teztnets.xyz/dailynet-2022-04-10-faucet
+
+https://teztnets.xyz/mondaynet-2022-04-04-faucet
+
+## Ripple
+
+### Ripple DevNet/Testnet
+
+https://xrpl.org/xrp-testnet-faucet.html
+
+## Algo
+
+### Algo DevNet/Testnet
+
+## Cardano
+
+### Cardano DevNet/Testnet
+
+https://testnets.cardano.org/en/testnets/cardano/tools/faucet/
+
