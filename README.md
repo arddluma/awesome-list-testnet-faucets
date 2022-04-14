@@ -9,15 +9,15 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
 - [Polygon](#polygon)
-- [xDai](#xdai)
+- [xDai](#xdai-gnosis)
 - [Fantom](#fantom)
 - [Aurora](#aurora)
 - [Cronos](#cronos)
 - [Solana](#solana)
-- [Tezos](#Tezos)
-- [Ripple](#Ripple)
-- [Algo](#Algo)
-- [Cardano](#Cardano)
+- [Tezos](#tezos)
+- [Ripple](#ripple)
+- [Algo](#algo)
+- [Cardano](#cardano)
 
 
 ## Etherspot
@@ -48,6 +48,8 @@ https://testnet.help/en/ethfaucet/ropsten
 
 https://faucet.egorfine.com/
 
+https://faucet.metamask.io/
+
 
 ### Goerli
 https://faucet.goerli.mudit.blog/
@@ -70,6 +72,8 @@ https://faucets.chain.link/
 https://app.mycrypto.com/faucet
 
 https://faucets.chain.link/rinkeby
+
+https://faucet.metamask.io/
 
 
 ## BSC
@@ -94,7 +98,7 @@ https://testmatic.vercel.app/
 
 https://faucets.chain.link/mumbai
 
-## xDai/Gnosis
+## xDai Gnosis
 
 ### Mainnet
 
