@@ -18,6 +18,7 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [Ripple](#ripple)
 - [Algo](#algo)
 - [Cardano](#cardano)
+- [Near](#near)
 
 
 ## Etherspot
@@ -165,4 +166,12 @@ https://dispenser.testnet.aws.algodev.network/
 ### Cardano DevNet/Testnet
 
 https://testnets.cardano.org/en/testnets/cardano/tools/faucet/
+
+## Near
+
+### Near Testnet 
+
+https://wallet.testnet.near.org/
+
+https://jelilat.github.io/near-faucet/
 
