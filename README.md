@@ -70,6 +70,8 @@ https://faucets.chain.link/
 
 ### Rinkeby
 
+https://rinkebyfaucet.com/
+
 https://app.mycrypto.com/faucet
 
 https://faucets.chain.link/rinkeby
