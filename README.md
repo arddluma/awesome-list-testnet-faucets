@@ -53,6 +53,8 @@ https://faucet.metamask.io/
 
 
 ### Goerli
+https://goerlifaucet.com/
+
 https://faucet.goerli.mudit.blog/
 
 https://goerli-faucet.slock.it/
@@ -67,6 +69,8 @@ https://app.mycrypto.com/faucet
 https://app.mycrypto.com/faucet
 
 https://faucets.chain.link/
+
+https://gitter.im/kovan-testnet/faucet
 
 ### Rinkeby
 
