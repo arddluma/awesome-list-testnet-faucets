@@ -63,7 +63,6 @@ https://faucet.matic.network/
 
 https://app.mycrypto.com/faucet
 
-
 ### Kovan
 
 https://app.mycrypto.com/faucet
@@ -82,6 +81,11 @@ https://faucets.chain.link/rinkeby
 
 https://faucet.metamask.io/
 
+### ETH 2.0
+
+#### Kiln Testnet (beta)
+
+https://kilnfaucet.com/
 
 ## BSC
 
