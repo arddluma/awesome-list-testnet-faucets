@@ -81,7 +81,7 @@ https://faucets.chain.link/rinkeby
 
 https://faucet.metamask.io/
 
-https://www.rinkedry.
+https://www.rinkedry.xyz/
 
 ### ETH 2.0
 
