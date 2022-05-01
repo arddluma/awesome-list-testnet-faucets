@@ -81,6 +81,8 @@ https://faucets.chain.link/rinkeby
 
 https://faucet.metamask.io/
 
+https://www.rinkedry.xyz/
+
 ### ETH 2.0
 
 #### Kiln Testnet (beta)
