@@ -113,6 +113,8 @@ https://testmatic.vercel.app/
 
 https://faucets.chain.link/mumbai
 
+https://faucet.dsolutions.mn/
+
 ## xDai Gnosis
 
 ### Mainnet
