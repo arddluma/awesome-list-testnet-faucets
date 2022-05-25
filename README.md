@@ -19,7 +19,6 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [Algo](#algo)
 - [Cardano](#cardano)
 - [Near](#near)
-- [Sepolia](#sepolia)
 
 
 ## Etherspot
@@ -83,6 +82,10 @@ https://faucets.chain.link/rinkeby
 https://faucet.metamask.io/
 
 https://www.rinkedry.xyz/
+
+### Sepolia
+
+https://faucet.sepolia.dev/
 
 ### ETH 2.0
 
@@ -191,9 +194,3 @@ https://testnets.cardano.org/en/testnets/cardano/tools/faucet/
 https://wallet.testnet.near.org/
 
 https://jelilat.github.io/near-faucet/
-
-## Sepolia
-
-### Sepolia Testnet 
-
-https://faucet.sepolia.dev/
