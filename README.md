@@ -83,6 +83,10 @@ https://faucet.metamask.io/
 
 https://www.rinkedry.xyz/
 
+### Sepolia
+
+https://faucet.sepolia.dev/
+
 ### ETH 2.0
 
 #### Kiln Testnet (beta)
@@ -190,4 +194,3 @@ https://testnets.cardano.org/en/testnets/cardano/tools/faucet/
 https://wallet.testnet.near.org/
 
 https://jelilat.github.io/near-faucet/
-
