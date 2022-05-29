@@ -51,6 +51,7 @@ https://faucet.egorfine.com/
 
 https://faucet.metamask.io/
 
+https://fauceth.komputing.org/
 
 ### Goerli
 https://goerlifaucet.com/
@@ -71,6 +72,8 @@ https://faucets.chain.link/
 
 https://gitter.im/kovan-testnet/faucet
 
+https://fauceth.komputing.org/
+
 ### Rinkeby
 
 https://rinkebyfaucet.com/
@@ -83,9 +86,13 @@ https://faucet.metamask.io/
 
 https://www.rinkedry.xyz/
 
+https://fauceth.komputing.org/
+
 ### Sepolia
 
 https://faucet.sepolia.dev/
+
+https://fauceth.komputing.org/
 
 ### ETH 2.0
 
