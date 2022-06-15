@@ -95,6 +95,8 @@ https://faucet.sepolia.dev/
 
 https://fauceth.komputing.org/
 
+https://sepoliafaucet.net/
+
 ### ETH 2.0
 
 #### Kiln Testnet (beta)
