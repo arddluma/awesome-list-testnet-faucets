@@ -20,6 +20,7 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [Cardano](#cardano)
 - [Near](#near)
 - [Arbitrum](#arbitrum)
+- [Harmony](#harmony)
 
 
 ## Etherspot
@@ -213,5 +214,8 @@ https://faucet.pardigm.xyz/
 
 https://fauceth.komputing.org/
 
+## Harmony
 
+## Harmony DevNet
 
+https://dev.faucet.easynode.one/
