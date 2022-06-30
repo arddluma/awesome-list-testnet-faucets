@@ -21,7 +21,7 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [Near](#near)
 - [Arbitrum](#arbitrum)
 - [Harmony](#harmony)
-
+- [Fuse](#fuse)
 
 ## Etherspot
 
@@ -219,3 +219,9 @@ https://fauceth.komputing.org/
 ## Harmony DevNet
 
 https://dev.faucet.easynode.one/
+
+## Fuse
+
+## Fuse SparkNet
+
+https://get.fusespark.io/
