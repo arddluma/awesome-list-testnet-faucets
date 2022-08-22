@@ -227,3 +227,9 @@ https://dev.faucet.easynode.one/
 ## Fuse SparkNet
 
 https://get.fusespark.io/
+
+## Moonbeam
+
+## Moonbase Alpha
+
+https://discord.etherspot.io (#faucet channel) - drops 1 DEV
