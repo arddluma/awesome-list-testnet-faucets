@@ -1,4 +1,6 @@
 # awesome-list-testnet-faucets
+<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/arddluma/awesome-list-testnet-faucets" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/arddluma/awesome-list-testnet-faucets" />
+
 Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, FantomTest, Sokol, Aurora etc
 
 
@@ -134,10 +136,6 @@ https://faucet.dsolutions.mn/
 
 ## xDai Gnosis
 
-### Mainnet
-
-https://blockscout.com/xdai/mainnet/faucet
-
 ### Sokol
 
 https://faucet.poa.network/
@@ -177,8 +175,6 @@ https://solfaucet.com/
 https://faucet.tzalpha.net/
 
 https://teztnets.xyz/ithacanet-faucet
-
-https://teztnets.xyz/dailynet-2022-04-10-faucet
 
 https://teztnets.xyz/mondaynet-2022-04-04-faucet
 
@@ -220,7 +216,7 @@ https://fauceth.komputing.org/
 
 ## Harmony DevNet
 
-https://dev.faucet.easynode.one/
+https://faucet.pops.one/
 
 ## Fuse
 
