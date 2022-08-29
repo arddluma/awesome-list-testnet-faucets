@@ -172,11 +172,7 @@ https://solfaucet.com/
 
 ### Tezos DevNet/Testnet
 
-https://faucet.tzalpha.net/
-
 https://teztnets.xyz/ithacanet-faucet
-
-https://teztnets.xyz/mondaynet-2022-04-04-faucet
 
 ## Ripple
 
