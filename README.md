@@ -35,7 +35,7 @@ Checkout [here](https://bit.ly/3oyavge)
 https://try.etherspot.dev/#TopUpAccount
 
 Faucet for #goerli and #moonbasealpha --> (#faucet channel)
-https://discord.etherpsot.io
+https://discord.etherspot.io
 
 ## MultiFaucet
 Faucet drips on the Ethereum testnets (Rinkeby, Ropsten, Kovan, Görlil, Optimistic Kovan, Arbitrum Rinkeby, Avalanche Fuji, Polygon Mumbai)
