@@ -207,7 +207,7 @@ https://jelilat.github.io/near-faucet/
 
 ## Arbitrum Rinkeby
 
-https://faucet.pardigm.xyz/
+https://faucet.paradigm.xyz/
 
 https://fauceth.komputing.org/
 
