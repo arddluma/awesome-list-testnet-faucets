@@ -24,6 +24,8 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [Arbitrum](#arbitrum)
 - [Harmony](#harmony)
 - [Fuse](#fuse)
+- [Moonbeam](#moonbeam)
+- [Avalanche](#avalanche)
 
 ## Etherspot
 
@@ -231,3 +233,12 @@ https://get.fusespark.io/
 ## Moonbase Alpha
 
 https://discord.etherspot.io (#faucet channel) - drops 1 DEV
+
+## Avalanche
+
+## Avalanche Fuji (C-Chain)
+
+https://faucet.paradigm.xyz/
+https://faucet.avax.network/
+
+
