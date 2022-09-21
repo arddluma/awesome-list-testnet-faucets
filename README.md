@@ -65,6 +65,8 @@ https://fauceth.komputing.org/
 ### Goerli
 https://discord.etherspot.io (#faucet channel) - drops 0.5 GoerliETH
 
+https://faucet.softbinator.com/
+
 https://goerlifaucet.com/
 
 https://faucet.goerli.mudit.blog/
