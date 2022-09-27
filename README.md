@@ -194,6 +194,10 @@ https://xrpl.org/xrp-testnet-faucet.html
 
 https://dispenser.testnet.aws.algodev.network/
 
+### Algo BetaNet
+
+https://bank.betanet.algodev.network/
+
 ## Cardano
 
 ### Cardano DevNet/Testnet
@@ -219,6 +223,10 @@ https://fauceth.komputing.org/
 ## Harmony
 
 ### Harmony DevNet
+
+http://dev.faucet.easynode.one/
+
+### Harmony TesNet
 
 https://faucet.pops.one/
 
