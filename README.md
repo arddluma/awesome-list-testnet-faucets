@@ -75,6 +75,8 @@ https://faucet.matic.network/
 
 https://app.mycrypto.com/faucet
 
+https://faucet.softbinator.com/
+
 ### Kovan
 
 https://app.mycrypto.com/faucet
