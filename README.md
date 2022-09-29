@@ -108,3 +108,10 @@ https://aurora.dev/faucet
 ### Cronos Testnet
 
 https://cronos.org/faucet
+
+
+## USDC Testnet Faucet
+
+### ETH, ALGO, FLOW, SOL, TRX, HBAR and XLM
+
+https://usdcfaucet.com/
