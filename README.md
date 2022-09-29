@@ -112,6 +112,6 @@ https://cronos.org/faucet
 
 ## USDC Testnet Faucet
 
-### ETH, ALGO, FLOW, SOL, TRX, HBAR and XLM
+### ETH, ALGO, FLOW, SOL, TRX, HBAR and XLM Networks
 
 https://usdcfaucet.com/
