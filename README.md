@@ -66,6 +66,8 @@ https://fauceth.komputing.org/
 ### Goerli
 https://discord.etherspot.io (#faucet channel) - drops 0.5 GoerliETH
 
+https://faucet.quicknode.com/ethereum/goerli
+
 https://goerlifaucet.com/
 
 https://faucet.goerli.mudit.blog/
@@ -80,6 +82,8 @@ https://faucet.softbinator.com/
 
 ### Kovan
 
+https://faucet.quicknode.com/ethereum/kovan
+
 https://app.mycrypto.com/faucet
 
 https://faucets.chain.link/
@@ -89,6 +93,8 @@ https://gitter.im/kovan-testnet/faucet
 https://fauceth.komputing.org/
 
 ### Rinkeby
+
+https://faucet.quicknode.com/ethereum/rinkeby
 
 https://rinkebyfaucet.com/
 
@@ -122,6 +128,8 @@ https://testnet.binance.org/faucet-smart
 
 https://faucets.chain.link/chapel
 
+https://faucet.quicknode.com/binance-smart-chain/bnb-testnet
+
 ## Polygon
 
 ### Mainnet
@@ -131,6 +139,8 @@ https://www.gimlu.com/faucet
 https://matic.supply/
 
 ### Mumbai
+
+https://faucet.quicknode.com/polygon/mumbai
 
 https://mumbaifaucet.com/
 
@@ -173,6 +183,9 @@ https://cronos.org/faucet
 ## Solana
 
 ### Solana DevNet/Testnet
+https://faucet.quicknode.com/solana/testnet
+
+https://faucet.quicknode.com/solana/devnet
 
 https://solfaucet.com/
 
@@ -215,6 +228,8 @@ https://jelilat.github.io/near-faucet/
 ## Arbitrum
 
 ### Arbitrum Rinkeby
+
+https://faucet.quicknode.com/arbitrum/rinkeby
 
 https://faucet.paradigm.xyz/
 
