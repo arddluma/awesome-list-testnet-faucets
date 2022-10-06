@@ -164,6 +164,8 @@ https://faucets.chain.link/sokol
 
 ### FantomTestnet
 
+https://discord.etherspot.io (#faucet channel) - drops 10 FTM
+
 https://faucet.fantom.network/
 
 https://faucets.chain.link/fantom-testnet
