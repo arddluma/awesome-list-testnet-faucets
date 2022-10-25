@@ -47,7 +47,6 @@ https://faucet.paradigm.xyz/
 
 ## Ethereum
 ### Ropsten
-https://ropsten.oregonctf.org/
 
 https://faucet.ropsten.be/
 
@@ -99,8 +98,6 @@ https://faucet.quicknode.com/ethereum/rinkeby
 https://rinkebyfaucet.com/
 
 https://app.mycrypto.com/faucet
-
-https://faucets.chain.link/rinkeby
 
 https://faucet.metamask.io/
 
