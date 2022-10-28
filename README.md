@@ -79,6 +79,12 @@ https://app.mycrypto.com/faucet
 
 https://faucet.softbinator.com/
 
+https://faucets.chain.link/
+
+https://bitszn.com/faucets.html
+
+https://www.allthatnode.com/faucet/ethereum.dsrv
+
 ### Kovan
 
 https://faucet.quicknode.com/ethereum/kovan
