@@ -27,6 +27,7 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [Moonbeam](#moonbeam)
 - [Avalanche](#avalanche)
 - [Energy Web](#energy-web)
+- [StarkNet](#StarkNet)
 
 ## Etherspot
 
@@ -78,6 +79,14 @@ https://faucet.matic.network/
 https://app.mycrypto.com/faucet
 
 https://faucet.softbinator.com/
+
+https://faucets.chain.link/
+
+https://bitszn.com/faucets.html
+
+https://www.allthatnode.com/faucet/ethereum.dsrv
+
+https://faucetlink.to/goerli
 
 ### Kovan
 
@@ -271,3 +280,7 @@ https://faucet.avax.network/
 ### Volta Testnet
 
 https://volta-faucet.energyweb.org/
+
+## StarkNet
+https://faucet.goerli.starknet.io
+
