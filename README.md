@@ -86,6 +86,8 @@ https://bitszn.com/faucets.html
 
 https://www.allthatnode.com/faucet/ethereum.dsrv
 
+https://faucetlink.to/goerli
+
 ### Kovan
 
 https://faucet.quicknode.com/ethereum/kovan
