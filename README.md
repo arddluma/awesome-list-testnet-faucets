@@ -27,6 +27,7 @@ Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, Fant
 - [Moonbeam](#moonbeam)
 - [Avalanche](#avalanche)
 - [Energy Web](#energy-web)
+- [Neon](#neon)
 
 ## Etherspot
 
@@ -271,3 +272,12 @@ https://faucet.avax.network/
 ### Volta Testnet
 
 https://volta-faucet.energyweb.org/
+
+## Neon
+
+### Neon Devnet
+
+https://neonfaucet.org/
+
+https://discord.etherspot.io (#faucet channel) - drops 10 NEON
+
