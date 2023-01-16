@@ -80,6 +80,8 @@ https://app.mycrypto.com/faucet
 
 https://faucet.softbinator.com/
 
+https://faucetlink.to/goerli
+
 ### Kovan
 
 https://faucet.quicknode.com/ethereum/kovan
@@ -113,6 +115,8 @@ https://faucet.sepolia.dev/
 https://fauceth.komputing.org/
 
 https://sepoliafaucet.net/
+
+https://faucetlink.to/sepolia
 
 ### ETH 2.0
 
