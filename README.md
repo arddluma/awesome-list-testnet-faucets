@@ -112,8 +112,6 @@ https://faucet.quicknode.com/binance-smart-chain/bnb-testnet
 
 https://www.gimlu.com/faucet
 
-https://matic.supply/
-
 ### Mumbai
 
 https://faucet.quicknode.com/polygon/mumbai
