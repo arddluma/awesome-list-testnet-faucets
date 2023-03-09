@@ -47,21 +47,6 @@ Faucet drips on the Ethereum testnets (Rinkeby, Ropsten, Kovan, Görlil, Optimis
 https://faucet.paradigm.xyz/
 
 ## Ethereum
-### Ropsten
-
-https://faucet.ropsten.be/
-
-https://app.mycrypto.com/faucet
-
-https://faucet.dimensions.network/
-
-https://testnet.help/en/ethfaucet/ropsten
-
-https://faucet.egorfine.com/
-
-https://faucet.metamask.io/
-
-https://fauceth.komputing.org/
 
 ### Goerli
 https://discord.etherspot.io (#faucet channel) - drops 0.5 GoerliETH
@@ -82,17 +67,6 @@ https://faucet.softbinator.com/
 
 https://goerli-faucet.pk910.de/
 
-### Kovan
-
-https://faucet.quicknode.com/ethereum/kovan
-
-https://app.mycrypto.com/faucet
-
-https://faucets.chain.link/
-
-https://gitter.im/kovan-testnet/faucet
-
-https://fauceth.komputing.org/
 
 ### Rinkeby
 
@@ -153,14 +127,6 @@ https://testmatic.vercel.app/
 https://faucets.chain.link/mumbai
 
 https://faucet.dsolutions.mn/
-
-## xDai Gnosis
-
-### Sokol
-
-https://faucet.poa.network/
-
-https://faucets.chain.link/sokol
 
 ## Fantom
 
