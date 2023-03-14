@@ -1,7 +1,7 @@
 # awesome-list-testnet-faucets
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/arddluma/awesome-list-testnet-faucets" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/arddluma/awesome-list-testnet-faucets" />
 
-Curated list of Testnet faucets for Ropsten, Goerli, Kovan, Polygon/Mumbai, FantomTest, Sokol, Aurora etc
+Curated list of Testnet faucets for Goerli, Polygon/Mumbai, FantomTest, Moonbeam Alpha, FuseSpark, Cardano Testnet, Solana Testnet, BSCTest Aurora and many more
 
 
 ## Networks
@@ -38,7 +38,7 @@ Checkout [here](https://bit.ly/3oyavge)
 
 https://try.etherspot.dev/#TopUpAccount
 
-Faucet for #goerli and #moonbasealpha --> (#faucet channel)
+Faucet for #Goerli #Mumbai, #FantomTest, #NeonDevnet, #FuseSpark and #MoonbaseAlpha --> (#faucet channel)
 https://discord.etherspot.io
 
 ## MultiFaucet
@@ -49,7 +49,7 @@ https://faucet.paradigm.xyz/
 ## Ethereum
 
 ### Goerli
-https://discord.etherspot.io (#faucet channel) - drops 0.5 GoerliETH
+https://discord.etherspot.io (#faucet channel) - drops 0.1 GoerliETH
 
 https://faucet.quicknode.com/ethereum/goerli
 
@@ -111,6 +111,8 @@ https://faucet.quicknode.com/binance-smart-chain/bnb-testnet
 https://www.gimlu.com/faucet
 
 ### Mumbai
+
+https://discord.etherspot.io (#faucet channel) - drops 1 MATIC
 
 https://faucet.quicknode.com/polygon/mumbai
 
