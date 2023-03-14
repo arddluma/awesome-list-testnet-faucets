@@ -76,8 +76,6 @@ https://rinkebyfaucet.com/
 
 https://app.mycrypto.com/faucet
 
-https://faucet.metamask.io/
-
 https://www.rinkedry.xyz/
 
 https://fauceth.komputing.org/
@@ -206,10 +204,6 @@ https://faucet.paradigm.xyz/
 https://fauceth.komputing.org/
 
 ## Harmony
-
-### Harmony DevNet
-
-http://dev.faucet.easynode.one/
 
 ### Harmony TesNet
 
