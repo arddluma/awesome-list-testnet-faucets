@@ -41,6 +41,11 @@ https://try.etherspot.dev/#TopUpAccount
 Faucet for #Goerli #Mumbai, #FantomTest, #NeonDevnet, #FuseSpark and #MoonbaseAlpha --> (#faucet channel)
 https://discord.etherspot.io
 
+## OmniFaucet
+Faucet for Ethereum Göerli testnets, Arbitrum Goerli Arb, Polygon Mumbai Matic, Solana (Devent and Testnet) SOL, BNB on BSC, TRX on Tron (seems to be always adding support for more tokens)
+
+https://omnifaucet.com/
+
 ## MultiFaucet
 Faucet drips on the Ethereum testnets (Rinkeby, Ropsten, Kovan, Görlil, Optimistic Kovan, Arbitrum Rinkeby, Avalanche Fuji, Polygon Mumbai)
 
@@ -49,6 +54,9 @@ https://faucet.paradigm.xyz/
 ## Ethereum
 
 ### Goerli
+
+https://omnifaucet.com Drops between 0.1 - 0.002 GoerliETH depending on demand and current supply
+
 https://discord.etherspot.io (#faucet channel) - drops 0.1 GoerliETH
 
 https://faucet.quicknode.com/ethereum/goerli
@@ -98,6 +106,8 @@ https://kilnfaucet.com/
 
 ## BSC
 
+https://omnifaucet.com - Drops between 0.1 - 0.05 BNB depending on demand and current supply
+
 https://testnet.binance.org/faucet-smart
 
 https://faucets.chain.link/chapel
@@ -112,6 +122,8 @@ https://www.gimlu.com/faucet
 
 ### Mumbai
 
+https://omnifaucet.com - Drops between 1 - 0.1 Matic depending on demand and current supply
+
 https://discord.etherspot.io (#faucet channel) - drops 1 MATIC
 
 https://faucet.quicknode.com/polygon/mumbai
@@ -125,6 +137,12 @@ https://testmatic.vercel.app/
 https://faucets.chain.link/mumbai
 
 https://faucet.dsolutions.mn/
+
+## TRON
+
+### Tron Shasta/Nile
+
+https://omnifaucet.com Airdrops 100 TRX indifintely
 
 ## Fantom
 
@@ -151,6 +169,8 @@ https://cronos.org/faucet
 ## Solana
 
 ### Solana DevNet/Testnet
+https://omnifaucet.com - Airdrops between 1 SOL indefinitely
+
 https://faucet.quicknode.com/solana/testnet
 
 https://faucet.quicknode.com/solana/devnet
@@ -194,6 +214,11 @@ https://wallet.testnet.near.org/
 https://jelilat.github.io/near-faucet/
 
 ## Arbitrum
+
+
+### Arbitrum Goerli
+
+https://omnifaucet.com Drops between 0.1 - 0.002 Arb depending on demand and current supply
 
 ### Arbitrum Rinkeby
 
@@ -244,4 +269,3 @@ https://volta-faucet.energyweb.org/
 https://neonfaucet.org/
 
 https://discord.etherspot.io (#faucet channel) - drops 10 NEON
-
