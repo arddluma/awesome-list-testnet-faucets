@@ -11,7 +11,6 @@ Curated list of Testnet faucets for Goerli, Polygon/Mumbai, FantomTest, Moonbeam
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
 - [Polygon](#polygon)
-- [xDai](#xdai-gnosis)
 - [Fantom](#fantom)
 - [Aurora](#aurora)
 - [Cronos](#cronos)
@@ -41,21 +40,19 @@ https://try.etherspot.dev/#TopUpAccount
 Faucet for #Goerli #Mumbai, #FantomTest, #NeonDevnet, #FuseSpark and #MoonbaseAlpha --> (#faucet channel)
 https://discord.etherspot.io
 
-## OmniFaucet
-Faucet for Ethereum Göerli testnets, Arbitrum Goerli Arb, Polygon Mumbai Matic, Solana (Devent and Testnet) SOL, BNB on BSC, TRX on Tron (seems to be always adding support for more tokens)
-
-https://omnifaucet.com/
-
 ## MultiFaucet
 Faucet drips on the Ethereum testnets (Rinkeby, Ropsten, Kovan, Görlil, Optimistic Kovan, Arbitrum Rinkeby, Avalanche Fuji, Polygon Mumbai)
 
 https://faucet.paradigm.xyz/
 
+## OmniFaucet
+Faucet for Ethereum Göerli testnets, Arbitrum Goerli Arb, Polygon Mumbai Matic, Solana (Devent and Testnet) SOL, BNB on BSC, TRX on Tron (seems to be always adding support for more tokens)
+
+https://omnifaucet.com/
+
 ## Ethereum
 
 ### Goerli
-
-https://omnifaucet.com Drops between 0.1 - 0.002 GoerliETH depending on demand and current supply
 
 https://discord.etherspot.io (#faucet channel) - drops 0.1 GoerliETH
 
@@ -75,18 +72,8 @@ https://faucet.softbinator.com/
 
 https://goerli-faucet.pk910.de/
 
+https://omnifaucet.com Drops between 0.1 - 0.002 GoerliETH depending on demand and current supply
 
-### Rinkeby
-
-https://faucet.quicknode.com/ethereum/rinkeby
-
-https://rinkebyfaucet.com/
-
-https://app.mycrypto.com/faucet
-
-https://www.rinkedry.xyz/
-
-https://fauceth.komputing.org/
 
 ### Sepolia
 
@@ -106,13 +93,14 @@ https://kilnfaucet.com/
 
 ## BSC
 
-https://omnifaucet.com - Drops between 0.1 - 0.05 BNB depending on demand and current supply
-
 https://testnet.binance.org/faucet-smart
 
 https://faucets.chain.link/chapel
 
 https://faucet.quicknode.com/binance-smart-chain/bnb-testnet
+
+https://omnifaucet.com - Drops between 0.1 - 0.05 BNB depending on demand and current supply
+
 
 ## Polygon
 
@@ -121,8 +109,6 @@ https://faucet.quicknode.com/binance-smart-chain/bnb-testnet
 https://www.gimlu.com/faucet
 
 ### Mumbai
-
-https://omnifaucet.com - Drops between 1 - 0.1 Matic depending on demand and current supply
 
 https://discord.etherspot.io (#faucet channel) - drops 1 MATIC
 
@@ -137,6 +123,9 @@ https://testmatic.vercel.app/
 https://faucets.chain.link/mumbai
 
 https://faucet.dsolutions.mn/
+
+https://omnifaucet.com - Drops between 1 - 0.1 Matic depending on demand and current supply
+
 
 ## TRON
 
@@ -169,13 +158,15 @@ https://cronos.org/faucet
 ## Solana
 
 ### Solana DevNet/Testnet
-https://omnifaucet.com - Airdrops between 1 SOL indefinitely
 
 https://faucet.quicknode.com/solana/testnet
 
 https://faucet.quicknode.com/solana/devnet
 
 https://solfaucet.com/
+
+https://omnifaucet.com - Airdrops between 1 SOL indefinitely
+
 
 ## Tezos
 
@@ -230,14 +221,13 @@ https://fauceth.komputing.org/
 
 ## Harmony
 
-### Harmony TesNet
+### Harmony TestNet
 
 https://faucet.pops.one/
 
 ## Fuse
 
 ### Fuse SparkNet
-
 
 https://discord.etherspot.io (#faucet channel) - drops 20 SPARK
 
@@ -254,6 +244,7 @@ https://discord.etherspot.io (#faucet channel) - drops 1 DEV
 ### Avalanche Fuji (C-Chain)
 
 https://faucet.paradigm.xyz/
+
 https://faucet.avax.network/
 
 ## Energy Web
