@@ -62,8 +62,6 @@ https://goerlifaucet.com/
 
 https://faucet.goerli.mudit.blog/
 
-https://goerli-faucet.slock.it/
-
 https://faucet.matic.network/
 
 https://app.mycrypto.com/faucet
@@ -76,8 +74,6 @@ https://omnifaucet.com Drops between 0.1 - 0.002 GoerliETH depending on demand a
 
 
 ### Sepolia
-
-https://faucet.sepolia.dev/
 
 https://fauceth.komputing.org/
 
@@ -103,10 +99,6 @@ https://omnifaucet.com - Drops between 0.1 - 0.05 BNB depending on demand and cu
 
 
 ## Polygon
-
-### Mainnet
-
-https://www.gimlu.com/faucet
 
 ### Mumbai
 
