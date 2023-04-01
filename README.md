@@ -93,8 +93,6 @@ https://kilnfaucet.com/
 
 https://testnet.binance.org/faucet-smart
 
-https://faucets.chain.link/chapel
-
 https://faucet.quicknode.com/binance-smart-chain/bnb-testnet
 
 https://omnifaucet.com - Drops between 0.1 - 0.05 BNB depending on demand and current supply
