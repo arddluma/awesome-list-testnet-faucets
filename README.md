@@ -72,6 +72,7 @@ https://goerli-faucet.pk910.de/
 
 https://omnifaucet.com Drops between 0.1 - 0.002 GoerliETH depending on demand and current supply
 
+https://faucet.metacommerce.app/ - drops 0.1 GoerliETH
 
 ### Sepolia
 
