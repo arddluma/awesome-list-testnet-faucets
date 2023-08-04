@@ -70,6 +70,8 @@ https://faucet.softbinator.com/
 
 https://goerli-faucet.pk910.de/
 
+https://faucet.chainstack.com/goerli-faucet
+
 https://omnifaucet.com Drops between 0.1 - 0.002 GoerliETH depending on demand and current supply
 
 
@@ -80,6 +82,8 @@ https://fauceth.komputing.org/
 https://sepoliafaucet.net/
 
 https://sepolia-faucet.pk910.de/
+
+https://faucet.chainstack.com/sepolia-faucet
 
 https://www.infura.io/faucet
 
@@ -94,6 +98,8 @@ https://kilnfaucet.com/
 https://testnet.binance.org/faucet-smart
 
 https://faucet.quicknode.com/binance-smart-chain/bnb-testnet
+
+https://faucet.chainstack.com/bnb-testnet-faucet
 
 https://omnifaucet.com - Drops between 0.1 - 0.05 BNB depending on demand and current supply
 
