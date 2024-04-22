@@ -83,6 +83,8 @@ https://sepolia-faucet.pk910.de/
 
 https://www.infura.io/faucet
 
+https://www.wefaucet.io/
+
 ### ETH 2.0
 
 #### Kiln Testnet (beta)
