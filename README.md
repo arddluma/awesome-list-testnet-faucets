@@ -83,6 +83,8 @@ https://sepolia-faucet.pk910.de/
 
 https://www.infura.io/faucet
 
+https://getblock.io/faucet/eth-sepolia/
+
 ### ETH 2.0
 
 #### Kiln Testnet (beta)
@@ -198,6 +200,7 @@ https://jelilat.github.io/near-faucet/
 
 ## Arbitrum
 
+https://getblock.io/faucet/arb-sepolia/
 
 ### Arbitrum Goerli
 
