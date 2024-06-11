@@ -83,6 +83,8 @@ https://sepolia-faucet.pk910.de/
 
 https://www.infura.io/faucet
 
+https://getblock.io/faucet/eth-sepolia/
+
 ### ETH 2.0
 
 #### Kiln Testnet (beta)
@@ -118,6 +120,9 @@ https://faucet.dsolutions.mn/
 
 https://omnifaucet.com - Drops between 1 - 0.1 Matic depending on demand and current supply
 
+### Amoy
+
+https://getblock.io/faucet/matic-amoy/
 
 ## TRON
 
