@@ -54,6 +54,8 @@ https://omnifaucet.com/
 
 ### Goerli
 
+https://faucet.chainstack.com/goerli-faucet - Gives up to 0.5 GoerliETH depending on user balance. Also [available as an API](https://docs.chainstack.com/reference/chainstack-faucet-get-tokens-rpc-method).
+
 https://discord.etherspot.io (#faucet channel) - drops 0.1 GoerliETH
 
 https://faucet.quicknode.com/ethereum/goerli
@@ -74,6 +76,8 @@ https://omnifaucet.com Drops between 0.1 - 0.002 GoerliETH depending on demand a
 
 
 ### Sepolia
+
+https://faucet.chainstack.com/sepolia-faucet - Gives up to 0.5 SepoliaETH depending on user balance. Also [available as an API](https://docs.chainstack.com/reference/chainstack-faucet-get-tokens-rpc-method).
 
 https://fauceth.komputing.org/
 
