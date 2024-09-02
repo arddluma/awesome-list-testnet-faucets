@@ -1,7 +1,7 @@
 # awesome-list-testnet-faucets
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/arddluma/awesome-list-testnet-faucets" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/arddluma/awesome-list-testnet-faucets" />
 
-Curated list of Testnet faucets for Goerli, Polygon/Mumbai, FantomTest, Moonbeam Alpha, FuseSpark, Cardano Testnet, Solana Testnet, BSCTest Aurora and many more
+Curated list of Testnet faucets for Goerli, Polygon/Amoy, Polygon/Mumbai, FantomTest, Moonbeam Alpha, FuseSpark, Cardano Testnet, Solana Testnet, BSCTest Aurora and many more
 
 
 ## Networks
@@ -112,8 +112,6 @@ https://faucet.quicknode.com/polygon/mumbai
 
 https://mumbaifaucet.com/
 
-https://faucet.polygon.technology/
-
 https://testmatic.vercel.app/
 
 https://faucets.chain.link/mumbai
@@ -121,6 +119,16 @@ https://faucets.chain.link/mumbai
 https://faucet.dsolutions.mn/
 
 https://omnifaucet.com - Drops between 1 - 0.1 Matic depending on demand and current supply
+
+### Amoy
+
+https://faucet.quicknode.com/polygon/amoy
+
+https://www.alchemy.com/faucets/polygon-amoy
+
+https://faucet.polygon.technology/
+
+https://faucets.chain.link/amoy
 
 
 ## TRON
