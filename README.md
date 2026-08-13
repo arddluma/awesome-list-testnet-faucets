@@ -87,6 +87,8 @@ https://getblock.io/faucet/eth-sepolia/
 
 https://cloud.google.com/application/web3/faucet/ethereum/sepolia/
 
+https://getsepolia.2bd.net/
+
 ### ETH 2.0
 
 #### Kiln Testnet (beta)
