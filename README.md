@@ -130,6 +130,8 @@ https://faucet.polygon.technology/
 
 https://faucets.chain.link/amoy
 
+https://faucet.zalalena.com/polygon
+
 
 ## TRON
 
